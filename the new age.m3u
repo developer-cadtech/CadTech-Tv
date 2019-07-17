@@ -576,3 +576,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1024px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA",The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca673e0d0bd6c2689c94ce3/featuredImage.jpg" group-title="24/7 PLUTO TV",Nick
+https://stitcher.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=bcuqage0urlhccbp8kbecjc830
